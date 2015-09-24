@@ -2,7 +2,7 @@
 
 Description here
 
-for i in *.shp
+for i in *.shp;
 do 
 echo $1
 done
